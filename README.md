@@ -1,5 +1,5 @@
 # Proyecto-Integrador-ARGBroker
-Proyecto integrador modulo Programacion del Instituto Superior Politecnico Córdoba
+Proyecto integrador del modulo Programador del Instituto Superior Politecnico Córdoba - 2024
 
 Objetivo del proyecto:
 
