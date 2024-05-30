@@ -1,5 +1,16 @@
-# SoftwareBroker
-Programa de inversiones
+# Proyecto-Integrador-ARGBroker
+Proyecto integrador modulo Programacion del Instituto Superior Politecnico Córdoba
 
+Objetivo del proyecto:
 
-https://app.diagrams.net/?src=about#G1N9Eq_i7U8NCW8eRHgmkTVvkrpJchVaK8#%7B%22pageId%22%3A%22rngxA736WK0ecI6_T60e%22%7D
+Trabajar de forma conjunta y organizada con el equipo de estudio con el fin de lograr los objetivos planteados en cada instancia del proyecto integrador del modulo Programador TSDS-2024 aplicando los conocimientos adquiridos durante el cursado.
+
+Participantes:
+
+* Camargo Mariana Lighuen
+* Huk Romina
+* Berbotto Mauricio
+* Cesia Gimenez
+* Barrenechea Calderón Marco Antonio
+* Dagatti Christian Edgardo 
+
