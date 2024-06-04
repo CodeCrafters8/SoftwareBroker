@@ -7,10 +7,12 @@ Trabajar de forma conjunta y organizada con el equipo de estudio con el fin de l
 
 Participantes:
 
-* Camargo Mariana Lighuen
-* Huk Romina
-* Berbotto Mauricio
-* Caceres Gimenez Cesia 
-* Barrenechea Calderón Marco Antonio
-* Dagatti Christian Edgardo 
+Apellido y Nombre - Usuario GitHub
+
+* Camargo Mariana Lighuen - Lighuennqn
+* Huk Romina - RoHu17
+* Berbotto Mauricio - Mauri31
+* Caceres Gimenez Cesia - Cesiaf
+* Barrenechea Calderón Marco Antonio - Barrenechea53Calderon
+* Dagatti Christian Edgardo - CHRISTIANDAGATTI
 
