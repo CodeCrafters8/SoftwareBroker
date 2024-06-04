@@ -1,7 +1,7 @@
 # ARGBroker DEMO
 
 ## Propósito
-La empresa tecnológica ISPC Cba se ha inscrito como broker de bolsa para ser intermediario entre los inversores y la Bolsa de Valores de Buenos Aires (MERVAL). Este proyecto tiene como objetivo desarrollar una aplicación que facilite las transacciones entre los inversores (personas físicas, empresas o instituciones) y otros inversores dentro del Mercado de Valores de Buenos Aires (Merval).
+El propósito de este proyecto es desarrollar una aplicación que actúe como intermediaria entre los inversores y la Bolsa de Valores de Buenos Aires (MERVAL), facilitando las transacciones bursátiles de manera eficiente y segura. Esta aplicación es solicitada por la empresa tecnológica ISPC Cba, que se ha inscrito como broker de bolsa, con el objetivo de gestionar las inversiones de personas físicas, empresas e instituciones en el MERVAL
 
 ## Contexto
 Este proyecto es parte de un trabajo grupal para un módulo integrador en la Tecnicatura en Desarrollo de Software del Instituto Superior Politecnico Córdoba - 2024. El módulo programador abarca tres materias: Programación, Base de Datos y Ética y Deontología Profesional. Este trabajo es el Proyecto final del Módulo y está diseñado para aplicar los conocimientos adquiridos en dichas materias.
